@@ -1,2 +1,2 @@
 # ml-using-python
-Practice Exercise 
+Practice Exercise for Numpy
